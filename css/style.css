@@ -1,0 +1,16 @@
+h1{
+	text-align: center;
+}
+.cp{
+	text-align: center;
+}
+dt{
+	color: green;
+}
+li{
+	list-style-type: circle;
+	margin-left: 60px;
+}
+span{
+	color: red;
+}
